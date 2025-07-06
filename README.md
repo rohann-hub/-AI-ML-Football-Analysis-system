@@ -22,6 +22,7 @@
   <li>YOLOv8 Model (Ultralytics)</li>
   <li>OpenCV</li>
   <li>Supervision</li>
+  <li>Roboflow (Optional: Dataset Management or Train Dataset)</li>
   <li>Webcam or match video input</li>
 </ul>
 
