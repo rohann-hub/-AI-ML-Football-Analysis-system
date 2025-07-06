@@ -123,6 +123,10 @@ AI-ML-Football-Analysis/
 </ul>
 
 <hr>
+<h3 align="center">
+  📁 <a href="https://drive.google.com/drive/folders/1oEZ3o797LzqEcSk86u0EqF-00Qbm4Yp1?usp=sharing" target="_blank"><strong> Download Pretrained Models & Training Files Below</strong></a>
+</h3>
+
 
 <h2>📬 Connect with Me</h2>
 <ul>
@@ -131,6 +135,7 @@ AI-ML-Football-Analysis/
 </ul>
 
 <hr>
+
 
 <p align="center">
   ⭐ <strong>If you like this project, please consider giving it a star!</strong> ⭐
